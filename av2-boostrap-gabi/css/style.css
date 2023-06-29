@@ -1,0 +1,123 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #000;
+
+}
+
+/* aqui começa o meu nav */
+
+nav{
+    background-color: white;
+}
+
+.conteudoNavbarSuportado{
+    color: #000 !important ;
+}
+.meubotaonav{
+    margin-left: 700px;
+    
+}
+
+.botaorednav{
+    margin-left: 200px;
+    color: #fff;
+    background-color: #9e0b0b;
+}
+.botaorednav:hover{
+    color: greenyellow;
+}
+
+.linksnav{
+    margin-right: 100px;
+    
+}
+
+.linksnav a:hover{
+    color: #9e0b0b !important;
+}
+.meunavbar:hover{
+    color: #9e0b0b;
+}
+/* aqui termina o meu nav */
+
+
+/* aqui começa o meu section */
+
+.quadradombappe{
+    background-color: #000;
+}
+
+h6{
+    color: #fff;
+}
+
+h5{
+    color: #fff;
+}
+
+.textombappe{
+    color: #fff;
+}
+
+
+.cordobotaombappe{
+    color: #9e0b0b ;
+    padding: 5px;
+}
+.cordobotaombappe:hover{
+    color: palegreen;
+}
+
+
+.btn{
+    white-space: unset;
+}
+.botaosecundariosection{
+    background-color: #000;
+}
+
+.textovideogame{
+    color: #fff;
+}
+
+.textonuvem{
+    color: #fff;
+}
+
+
+.textofinalsection {
+    color: #9e0b0b;
+    text-decoration: none;
+}
+
+
+.textofinalsection:hover{
+    color: palegreen;
+    
+    
+}
+
+
+
+
+
+
+
+
+/* AQUI TERMINA O MEU SECTION */
+
+
+
+/* AQUI COMEÇA O MEU FOOTER */
+
+ footer{
+    height: 100px;
+    margin-top: 50px;
+    background-color: #fff !important;
+}
+
+.textorodape{
+    color: #9e0b0b;
+}
+
+/* AQUI TERMINA O MEU FOOTER */
